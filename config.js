@@ -12,6 +12,6 @@ module.exports = {
     prefix: '/',
     api: {
 		base_url: 'https://forestapi.web.id',
-		secret_key: 'SECRET_KEY'
+		secret_key: 'YOUR_API_KEY'
 	}
 };
